@@ -113,7 +113,7 @@ function FirstSection(props) {
           </StyledContact>
           <StyledContact>Email: akanbassey8@gmail.com</StyledContact>
         </div>
-        <div className="block md:hidden mt-6 flex space-x-3">
+        <div className=" md:hidden mt-6 flex space-x-3">
           {/* <FaTwitter
             onClick={() => LinkToSocialMedia("https://twitter.com/AiBassey")}
             className="text-white h-8 w-8"

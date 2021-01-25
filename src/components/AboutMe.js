@@ -42,7 +42,7 @@ function AboutMe(props) {
           experience in Full Stack Web Development with a focus on utilizing
           frontend technologies in order to provide an awesome end-user UI
           experience. In my spare time I love to read about Machine Learning, as
-          well as Play Basketball or the guitar. I am also crazy sports fan,
+          well as Play Basketball or the guitar. I am also a crazy sports fan,
           Support the Golden State Warriors in Basketball and Liverpool in
           Football(YNWA 🤘). My Bio won't be complete without expressing my
           taste in music, I listen to Rock, Heavy Metal, Jazz and Afro-pop, But
