@@ -33,6 +33,11 @@ function Home(props) {
         frameworks={["angular"]}
         projectLink="https://vlogin-staging.azurewebsites.net/"
       />
+      <Card
+        title="Ha-Shem License on Demand"
+        frameworks={["angular"]}
+        projectLink="https://csp-renewal-staging.azurewebsites.net/"
+      />
     </>
   );
 }
