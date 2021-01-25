@@ -41,14 +41,21 @@ function AboutMe(props) {
           Javascript Developer at Ha-Shem Limited. I have 3 + years of
           experience in Full Stack Web Development with a focus on utilizing
           frontend technologies in order to provide an awesome end-user UI
-          experience. In my spare time I love to read about Machine Learning, as
-          well as Play Basketball or the guitar. I am also a crazy sports fan,
-          Support the Golden State Warriors in Basketball and Liverpool in
-          Football(YNWA 🤘). My Bio won't be complete without expressing my
-          taste in music, I listen to Rock, Heavy Metal, Jazz and Afro-pop, But
-          more of a metal head; the oldies like Black Sabbath, Guns n' Roses,
-          Nirvana and any good rock song you might suggest. I love having a good
-          time and also love learning, so that's all about me. Cheers!
+          experience. I am familiar with the MEAN stack, MERN stack and more
+          recently I have been utilizing the JAMstack in my projects. For
+          Machine Learning, I know how to use the scikit-learn library as well
+          as Numpy and Pandas, currently trying build my own neural network from
+          scratch using just numpy, but I am not scared of deep learning
+          libraries, I am fan of the pytorch library; hopefully I pick of
+          tensorflow soon enough. In my spare time I love to read about Machine
+          Learning, as well as Play Basketball or the guitar. I am also a crazy
+          sports fan, Support the Golden State Warriors in Basketball and
+          Liverpool in Football(YNWA 🤘). My Bio won't be complete without
+          expressing my taste in music, I listen to Rock, Heavy Metal, Jazz and
+          Afro-pop, But more of a metal head; the oldies like Black Sabbath,
+          Guns n' Roses, Nirvana and any good rock song you might suggest. I
+          love having a good time and also love learning, so that's all about
+          me. Cheers!
         </Content>
 
         <StyledAboutMe className="flex flex-col flex-wrap mt-20">
