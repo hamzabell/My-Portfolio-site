@@ -64,41 +64,53 @@ function AboutMe(props) {
         </StyledAboutMe>
         <Content>
           <div className="grid grid-cols-3 gap-20 md:gap-x-32 md:gap-y-14 mt-16">
-            <div>
+            <div className="flex flex-col">
               <FaHtml5 className="text-white h-16 w-16" />
+              <h1>HTML</h1>
             </div>
-            <div>
+            <div className="flex flex-col">
               <FaCss3 className="text-white h-16 w-16" />
+              <h1>CSS</h1>
             </div>
-            <div>
+            <div className="flex flex-col">
               <SiJavascript className="text-white h-16 w-16" />
+              <h1>Javascript</h1>
             </div>
-            <div>
+            <div className="flex flex-col">
               <FaPython className="text-white h-16 w-16" />
+              <h1>Python</h1>
             </div>
-            <div>
+            <div className="flex flex-col">
               <FaNodeJs className="text-white h-16 w-16" />
+              <h1>NodeJS</h1>
             </div>
-            <div>
+            <div className="flex flex-col">
               <SiGraphql className="text-white h-16 w-16" />
+              <h1>GraphQL</h1>
             </div>
-            <div>
+            <div className="flex flex-col">
               <SiDjango className="text-white h-16 w-16" />
+              <h1>Django</h1>
             </div>
-            <div>
+            <div className="flex flex-col">
               <SiPytorch className="text-white h-16 w-16" />
+              <h1>PyTorch</h1>
             </div>
-            <div>
+            <div className="flex flex-col">
               <FaReact className="text-white h-16 w-16" />
+              <h1>Reactjs</h1>
             </div>
-            <div>
+            <div className="flex flex-col">
               <FaAngular className="text-white h-16 w-16" />
+              <h1>Angular</h1>
             </div>
-            <div>
+            <div className="flex flex-col">
               <SiRedux className="text-white h-16 w-16" />
+              <h1>Redux</h1>
             </div>
-            <div>
+            <div className="flex flex-col">
               <SiNetlify className="text-white h-16 w-16" />
+              <h1>Netlify</h1>
             </div>
           </div>
         </Content>
