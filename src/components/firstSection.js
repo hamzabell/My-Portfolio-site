@@ -59,7 +59,7 @@ function FirstSection(props) {
                 }
               /> */}
               <FaLinkedin
-                className="text-white h-8 w-8"
+                className="text-white h-8 w-8 cursor-pointer"
                 onClick={() =>
                   LinkToSocialMedia(
                     "https://www.linkedin.com/in/akan-bassey-708941171/"
@@ -67,20 +67,20 @@ function FirstSection(props) {
                 }
               />
               <FaInstagram
-                className="text-white h-8 w-8"
+                className="text-white h-8 w-8 cursor-pointer"
                 onClick={() =>
                   LinkToSocialMedia("https://www.instagram.com/bassey.ai/")
                 }
               />
               <FaFacebookSquare
-                className="text-white h-8 w-8"
+                className="text-white h-8 w-8 cursor-pointer"
                 onClick={() =>
                   LinkToSocialMedia("https://www.facebook.com/akan.bassey.75/")
                 }
               />
               {/* <FaMediumM className="text-white h-8 w-8" /> */}
               <FaGithub
-                className="text-white h-8 w-8"
+                className="text-white h-8 w-8 cursor-pointer"
                 onClick={() =>
                   LinkToSocialMedia("https://github.com/hamzabell")
                 }
@@ -124,24 +124,24 @@ function FirstSection(props) {
                 "https://www.linkedin.com/in/akan-bassey-708941171/"
               )
             }
-            className="text-white h-8 w-8"
+            className="text-white h-8 w-8 cursor-pointer"
           />
           <FaInstagram
             onClick={() =>
               LinkToSocialMedia("https://www.instagram.com/bassey.ai/")
             }
-            className="text-white h-8 w-8"
+            className="text-white h-8 w-8 cursor-pointer"
           />
           <FaFacebookSquare
             onClick={() =>
               LinkToSocialMedia("https://www.facebook.com/akan.bassey.75/")
             }
-            className="text-white h-8 w-8"
+            className="text-white h-8 w-8 cursor-pointer"
           />
           {/* <FaMediumM className="text-white h-8 w-8" /> */}
           <FaGithub
             onClick={() => LinkToSocialMedia("https://github.com/hamzabell")}
-            className="text-white h-8 w-8"
+            className="text-white h-8 w-8 cursor-pointer"
           />
         </div>
       </div>
