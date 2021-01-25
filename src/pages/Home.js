@@ -15,7 +15,7 @@ function Home(props) {
       />
       <Card
         title="Yankee Pay Website"
-        frameworks={["angular"]}
+        frameworks={["react"]}
         projectLink="https://stoic-mcnulty-378a6b.netlify.app/"
       />
       <Card
