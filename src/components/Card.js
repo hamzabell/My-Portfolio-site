@@ -1,7 +1,7 @@
 import React from "react";
 import { FaLongArrowAltRight } from "react-icons/fa";
 import styled from "styled-components";
-import { FaReact, FaAngular, FaHtml5, FaCss3 } from "react-icons/fa";
+import { FaReact, FaAngular, FaHtml5, FaCss3, FaNodeJs } from "react-icons/fa";
 import { SiJavascript, SiRedux, SiNetlify } from "react-icons/si";
 import styles from "./card.module.css";
 
@@ -62,6 +62,9 @@ function Card({ title, frameworks, projectLink }) {
           )}
           {isFrameWorkInProject("angular") && (
             <FaAngular className={`${styles.icon}  h-6 w-6`} />
+          )}
+          {isFrameWorkInProject("node") && (
+            <FaNodeJs className={`${styles.icon}  h-6 w-6`} />
           )}
           {isFrameWorkInProject("redux") && (
             <StyledReact className={`${styles.icon}  h-6 w-6`} />
