@@ -14,6 +14,11 @@ function Home(props) {
         projectLink="https://africk.net/"
       />
       <Card
+        title="Yankee Pay Website"
+        frameworks={["angular"]}
+        projectLink="https://stoic-mcnulty-378a6b.netlify.app/"
+      />
+      <Card
         title="Merchant X"
         frameworks={["angular", "node"]}
         projectLink="https://merchantx-ui.vercel.app/"
