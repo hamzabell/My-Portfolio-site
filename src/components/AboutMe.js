@@ -63,7 +63,7 @@ function AboutMe(props) {
           <Div className="w-10 h-1 mt-5 rounded-xl"></Div>
         </StyledAboutMe>
         <Content>
-          <div className="grid grid-cols-3 gap-20 md:gap-x-32 md:gap-y-14 mt-16">
+          <div className="grid grid-cols-3 gap-4 md:gap-x-32 md:gap-y-14 mt-16">
             <div className="flex flex-col">
               <FaHtml5 className="text-white h-16 w-16" />
               <h1>HTML</h1>
