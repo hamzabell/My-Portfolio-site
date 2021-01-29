@@ -19,6 +19,11 @@ function Home(props) {
         projectLink="https://stoic-mcnulty-378a6b.netlify.app/"
       />
       <Card
+        title="PowerNik Staff Bonus Management"
+        frameworks={["react", "netlify"]}
+        projectLink="https://powernik-bonuses.netlify.app/"
+      />
+      <Card
         title="Merchant X"
         frameworks={["angular", "node"]}
         projectLink="https://merchantx-ui.vercel.app/"

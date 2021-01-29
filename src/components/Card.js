@@ -42,7 +42,7 @@ function Card({ title, frameworks, projectLink }) {
       className="my-5 border border-gray-100 mx-5 md:mx-32 "
       onClick={linkToProject}
     >
-      <StyledDiv className="grid grid-cols-3 md:grid-cols-5 p-5  gap-20 md:p-10 w-full hover:shadow-5xl hover:bg-white">
+      <StyledDiv className="grid grid-cols-2 md:grid-cols-5 p-5  gap-20 md:p-10 w-full hover:shadow-5xl  hover:bg-white hover:p-20 hover:transition ease-out">
         <StyledTitle className="flex flex-wrap text-xl font-bold col-span-2">
           {title}
         </StyledTitle>
