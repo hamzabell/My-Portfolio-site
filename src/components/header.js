@@ -45,7 +45,7 @@ function Header(props) {
       <StyledButton
         onClick={() =>
           linkToCV(
-            "https://drive.google.com/file/d/1bzkaHRd9ryTNxtrQxdqwVMgzJbq2W8K0/view?usp=sharing"
+            "https://drive.google.com/file/d/1NikMujCIWCUqHHTxNrQPdEZG5iPXhZmO/view?usp=sharing"
           )
         }
       >
