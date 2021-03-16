@@ -9,6 +9,11 @@ function Home(props) {
       <AboutMe />
       <Project />
       <Card
+        title="Scalar VC"
+        frameworks={["react", "netlify"]}
+        projectLink="https://www.scalarvc.com/"
+      />
+      <Card
         title="Africk Technologies Website"
         frameworks={["react", "netlify"]}
         projectLink="https://africk.net/"
